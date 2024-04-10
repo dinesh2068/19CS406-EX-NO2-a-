@@ -40,11 +40,11 @@ while True:
 
 ## CLIENT.PY:
 
-![Screenshot 2024-04-10 161459](https://github.com/dinesh2068/19CS406-EX-NO2-a-/assets/151390189/0c6c2a44-f453-47d9-911a-803dc9183668)
+![Screenshot 2024-04-10 163830](https://github.com/dinesh2068/19CS406-EX-NO2-a-/assets/151390189/120f8062-e2e9-466a-a6e8-5665fd9786e6)
 
 ## SERVER.PY:
 
-![Screenshot 2024-04-10 161506](https://github.com/dinesh2068/19CS406-EX-NO2-a-/assets/151390189/67d0f2fc-024f-4d31-8923-5a9a53dc53f5)
+![Screenshot 2024-04-10 163837](https://github.com/dinesh2068/19CS406-EX-NO2-a-/assets/151390189/e3f7b36a-a3c4-4dff-854e-a2c6d71dc414)
 
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed.
